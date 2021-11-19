@@ -20,11 +20,33 @@ redirect_from:
 
 ### iPhone
 
+iPhone14,2 : iPhone 13 Pro
+iPhone14,3 : iPhone 13 Pro Max
+iPhone14,4 : iPhone 13 Mini
+iPhone14,5 : iPhone 13
+
 <table>
   <tr>
     <th>Device</th>
     <th>Released</th>
     <th>Hardware strings</th>
+  </tr>
+  <tr>
+    <td>iPhone 13</td>
+    <td rowspan="5">2021</td>
+    <td>iPhone14,5</td>
+  </tr>
+  <tr>
+    <td>iPhone 13 Mini</td>
+    <td>iPhone14,4</td>
+  </tr>
+  <tr>
+    <td>iPhone 13 Pro Max</td>
+    <td>iPhone14,3</td>
+  </tr>
+  <tr>
+    <td>iPhone 13 Pro</td>
+    <td>iPhone13,2</td>
   </tr>
   <tr>
     <td>iPhone 12 Pro Max</td>
